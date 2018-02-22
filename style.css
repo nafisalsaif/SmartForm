@@ -6,6 +6,6 @@
 .btnRight{
   float:right;
 }
-.question{
-	display: none;
+#q1, #q2, #q2a, #q2b, #q2c, #thanks, #q3 {
+  display: none;
 }
